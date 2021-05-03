@@ -1,5 +1,3 @@
-<img src="https://i.ibb.co/pyM1WSF/github-profil.gif" alt="">
-
 ### Hi there I'm Valxer 👋
 
 - 🔭 I’m currently working on OpenClassrooms projects in order to become a Junior Web developper worthy of your time 
